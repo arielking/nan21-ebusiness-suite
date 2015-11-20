@@ -1,0 +1,1 @@
+Open source CRM/ERP with web client, Oracle/Php/Extjs
